@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"scripts": {
 		"start": "sanity start",
-		"build": "sanity build ../public/studio -y."
+		"build": "sanity build -y."
 	},
 	"description": "",
 	"main": "package.json",
