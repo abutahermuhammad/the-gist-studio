@@ -2,6 +2,10 @@
 	"name": "mysanityproject",
 	"private": true,
 	"version": "1.0.0",
+	"scripts": {
+		"build": "sanity build ../public/studio -y.",
+		"start": "sanity start"
+	},
 	"description": "",
 	"main": "package.json",
 	"author": "Knut Melvær <knut@sanity.io>",
