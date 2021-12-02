@@ -18,15 +18,66 @@ export default {
       }
     },
     {
-      name: 'author',
-      title: 'Author',
-      type: 'reference',
-      to: {type: 'author'}
+      title: 'Report',
+      name: 'report',
+      type: 'object',
+      fields: [
+        {
+          name: 'status',
+          title: 'Status',
+          type: 'boolean'
+        },
+        {
+          name: 'message',
+          title: 'Message',
+          type: 'string'
+        }
+      ],
+      description: "This switche truned on if this content get reported."
     },
     {
-      name: 'mainImage',
-      title: 'Main image',
+      title: 'Approved',
+      name: 'approved',
+      type: 'boolean',
+      description: "Posts won't show on the site without approval"
+    }, 
+    {
+      title: 'Featured',
+      name: 'featured',
+      type: 'boolean',
+      description: "To show a content in featured section."
+    }, 
+    {
+      title: 'Author',
+      name: 'author',
+      type: 'reference',
+      to: {type: 'author'}
+    }, 
+    {
+      title: 'Excerpt',
+      name: 'excerpt',
+      type: 'text',
+      options: {
+        minLength: 130,
+        maxLength: 200
+      }
+    },
+    {
+      title: 'Thumbnail',
+      name: 'thumbnail',
       type: 'image',
+      fields: [
+        {
+          title: 'Caption',
+          name: 'caption',
+          type: 'blockContent',
+        },
+        {
+          title: 'Alt',
+          name: 'alt',
+          type: 'string',
+        },
+      ],
       options: {
         hotspot: true
       }
@@ -38,6 +89,16 @@ export default {
       of: [{type: 'reference', to: {type: 'category'}}]
     },
     {
+      name: 'tags',
+      title: 'Tags',
+      type: 'array',
+      of: [
+        {
+          type: 'string',
+        }
+      ]
+    },
+    {
       name: 'publishedAt',
       title: 'Published at',
       type: 'datetime'
@@ -46,6 +107,61 @@ export default {
       name: 'body',
       title: 'Body',
       type: 'blockContent'
+    },
+    {
+      name: 'references',
+      title: 'References',
+      type: 'array',
+      of: [
+        {
+          type: 'object',
+          fields: [
+            {
+              name: 'title',
+              title: 'Title',
+              type: 'string',
+            },
+            {
+              name: 'url',
+              title: 'URL',
+              type: 'url',
+            }
+          ]
+        }
+      ]
+    },
+    {
+      name: 'importantLinks',
+      title: 'Important Links',
+      type: 'array',
+      of: [
+        {
+          type: 'object',
+          fields: [
+            {
+              name: 'type',
+              title: 'Type',
+              type: 'string',
+            },
+            {
+              name: 'title',
+              title: 'Title',
+              type: 'string',
+            },
+            {
+              name: 'url',
+              title: 'URL',
+              type: 'url',
+            }
+          ]
+        }
+      ]
+    },
+    {
+      title: 'Removed',
+      name: 'removed',
+      type: 'boolean',
+      description: "This switche truned on if this content deleted by user."
     }
   ],
 
