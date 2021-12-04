@@ -13,5 +13,11 @@ export default {
       title: 'Description',
       type: 'text'
     }
-  ]
+  ],
+  preview: {
+    select: {
+      title: 'title',
+      media: 'description'
+    }
+  }
 }
