@@ -1,0 +1,363 @@
+{
+  "ms": 22,
+  "query": "*[_type == \"post\" && _id == '53d7dde6-bfd0-48e8-9bdf-6a2f4e31051c']",
+  "result": [
+    {
+      "_createdAt": "2021-12-02T07:13:43Z",
+      "_id": "53d7dde6-bfd0-48e8-9bdf-6a2f4e31051c",
+      "_rev": "IzX5RKlqfYzkAUwyD8oBOR",
+      "_type": "post",
+      "_updatedAt": "2021-12-02T19:49:43Z",
+      "approved": true,
+      "author": {
+        "_ref": "bc05b65f-d794-449b-bd7d-ccd679d5b9b7",
+        "_type": "reference"
+      },
+      "body": [
+        {
+          "_key": "5dbcf63108dd",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "b21692f81377",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Nearly 2,000 belugas frolic each summer "
+            },
+            {
+              "_key": "d8633daeec23",
+              "_type": "span",
+              "marks": [
+                "0150ccf543ae"
+              ],
+              "text": "near-Arctic Canada’s Somerset Island"
+            },
+            {
+              "_key": "2daf3f37ab74",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": ", nursing their young, chattering in squeaks and whistles, and swimming about in shifting networks of companions and family. Scientists suspect many whale species share cultural traditions, much as humans do."
+            }
+          ],
+          "markDefs": [
+            {
+              "_key": "0150ccf543ae",
+              "_type": "link",
+              "href": "https://dev.gisthive.org/"
+            }
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "8a8eb6cb0bc5",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "b075eedb2d9e0",
+              "_type": "span",
+              "marks": [
+                "strong"
+              ],
+              "text": "John Ford wanted a whale’s-eye view"
+            },
+            {
+              "_key": "b075eedb2d9e1",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": ". One summer day in 1978 a pod of killer whales raced toward a pebbled beach on British Columbia’s Vancouver Island. The young biologist was waiting in a wet suit and snorkel. The ghostly black-and-white procession steamed in like a team of U-boats, low and fast. Ford pressed on his face mask and slipped into the sea. In waters barely 10 feet deep, the creatures slowed and rolled to their sides. Bodies partially submerged, the fans at the end of their tails—their flukes—wagging, the whales began to twist and shimmy. One by one, each scuffed its side and belly on the stones, like grizzlies scratching against the pines."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "466eb8288902",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "c2de06f16bc80",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Ford, age 66, has now studied killer whales, the largest dolphin, and from the branch of the Cetacean order known as toothed whales, for more than 40 years. He’s seen this phenomenon, called beach rubbing, countless times since that first underwater glimpse. He can’t say for certain why the animals do it. He suspects it’s a form of social bonding. A larger question, though, has gnawed at him for much of his career: How come these killer whales, or orcas, do it, but not their nearly identical neighbors just to the south?"
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "47109d8c7c65",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "ef6f456628ac0",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Ford, age 66, has now studied killer whales, the largest dolphin, and from the branch of the Cetacean order known as toothed whales, for more than 40 years. He’s seen this phenomenon, called beach rubbing, countless times since that first underwater glimpse. He can’t say for certain why the animals do it. He suspects it’s a form of social bonding. A larger question, though, has gnawed at him for much of his career: How come these killer whales, or orcas, do it, but not their nearly identical neighbors just to the south?"
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "3760f2c4b9c4",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "6a9031b031b2",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Beach rubbing is routine among this population, called northern residents because they ply inland seas during summer and fall between the Canadian mainland and Vancouver Island. Not so their neighbors to the south. The orcas around the border with Washington State, where I live, have never been documented performing this ritual."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "blockquote"
+        },
+        {
+          "_key": "23d110350b06",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "2d630cfaa61c",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "A killer whale, or orca, chases herring in a Norwegian fjord. Groups of killer whales (which are technically part of the dolphin family) have distinct eating habits. Some corral schooling fish. Others hunt sharks or seals, while some feast almost exclusively on salmon. These habits are partly cultural—learned behaviors passed down through generations."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "138e5aa1ee13",
+          "_type": "image",
+          "asset": {
+            "_ref": "image-0249d2ba303a5d1794150923e1ab1224143a9505-1271x847-png",
+            "_type": "reference"
+          }
+        },
+        {
+          "_key": "a144a6f26645",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "8ad1e49d323b",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "A humpback cow and calf are joined by two males in the Cook Islands. Males escort females with calves in hopes that they will be the next ones to mate with the mothers. Calves emit soft, whisper-like squeaks, perhaps to avoid being overheard by predators. Adult males sing in low, guttural moans and high-pitched whoops and screeches."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "68ca16dd1f01",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "a9854bfaf0b60",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Beach rubbing is routine among this population, called northern residents because they ply inland seas during summer and fall between the Canadian mainland and Vancouver Island. Not so their neighbors to the south. The orcas around the border with Washington State, where I live, have never been documented performing this ritual."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "4da100495213",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "d32ea72a1399",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": ""
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "a0f90c638d92",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "caa6dfafe87e0",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Humpback escort"
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "h3"
+        },
+        {
+          "_key": "df17d31b28ff",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "6e3b3459a54e0",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Washington’s killer whales, called the southern residents, instead have their own conventions. They hold “greeting ceremonies,” facing off in tight lines before exploding in underwater parties of rubs and calls. That’s exceedingly rare up north. Southern residents are aerialists, performing twisting leaps and belly flops. Northern residents breach far less. Some years the southern residents push dead salmon around with their heads. Not the northerners: They occasionally headbutt one another, bumping noggins like bighorn sheep. “They just swim at each other and sort of collide,” Ford says."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "34a15599382f",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "55f75880f71b0",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": "Beach rubbing is routine among this population, called northern residents because they ply inland seas during summer and fall between the Canadian mainland and Vancouver Island. Not so their neighbors to the south. The orcas around the border with Washington State, where I live, have never been documented performing this ritual."
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        },
+        {
+          "_key": "e1fe428f90d0",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "072686585fdc",
+              "_type": "span",
+              "marks": [
+                
+              ],
+              "text": ""
+            }
+          ],
+          "markDefs": [
+            
+          ],
+          "style": "normal"
+        }
+      ],
+      "categories": [
+        
+      ],
+      "excerpt": "From singing competitions to food preferences, scientists are learning whales have cultural differences once thought to be unique to humans.",
+      "featured": true,
+      "importantLinks": [
+        {
+          "_key": "1ea540667f43",
+          "title": "New pumpkin toadlet species found—and it secretly glows in the dark.",
+          "type": "Forum",
+          "url": "https://dev.gisthive.org/forums/FQ2351/new-pumpkin-toadlet-species-found%E2%80%94and-it-secretly-glows-in-the-dark"
+        }
+      ],
+      "publishedAt": "2021-12-02T07:10:41.002Z",
+      "references": [
+        {
+          "_key": "fd102eaf3ad9",
+          "title": "Is this mammoth-ivory pendant Eurasia’s oldest surviving jewellery?",
+          "url": "https://www.nature.com/articles/d41586-021-03534-y"
+        }
+      ],
+      "reviewed": true,
+      "slug": {
+        "_type": "slug",
+        "current": "new-pumpkin-toadlet-species-found-and-it-secretly-glows-in-the-dark"
+      },
+      "tags": [
+        "Pumpkin",
+        "species",
+        "toadlet",
+        "Biology"
+      ],
+      "thumbnail": {
+        "_type": "image",
+        "alt": "dfgs",
+        "asset": {
+          "_ref": "image-59ba18d84876e68f97b6974a0529eca996338c8a-1596x1064-jpg",
+          "_type": "reference"
+        },
+        "caption": [
+          {
+            "_key": "2de48be641bf",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "a4c8277d9055",
+                "_type": "span",
+                "marks": [
+                  
+                ],
+                "text": "This simple "
+              },
+              {
+                "_key": "93b6fef8d284",
+                "_type": "span",
+                "marks": [
+                  "206993f87dd7"
+                ],
+                "text": "caption"
+              }
+            ],
+            "markDefs": [
+              {
+                "_key": "206993f87dd7",
+                "_type": "link",
+                "href": "https://dev.gisthive.org"
+              }
+            ],
+            "style": "normal"
+          }
+        ]
+      },
+      "title": "New pumpkin toadlet species found—and it secretly glows in the dark"
+    }
+  ]
+}
