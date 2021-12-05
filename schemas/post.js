@@ -36,14 +36,14 @@ export default {
       description: "This switche truned on if this content get reported."
     },
     {
-      title: 'Approved',
       name: 'approved',
+      title: 'Approved',
       type: 'boolean',
       description: "Posts won't show on the site without approval"
     }, 
     {
-      title: 'Featured',
       name: 'featured',
+      title: 'Featured',
       type: 'boolean',
       description: "To show a content in featured section."
     }, 
@@ -154,13 +154,21 @@ export default {
       ]
     },
     {
-      title: 'Removed',
       name: 'removed',
+      title: 'Removed',
       type: 'boolean',
       description: "This switche truned on if this content deleted by user."
     }
   ],
-
+  initialValue: () => ({
+    report: {
+      status: false
+    },
+    approved: false,
+    featured: false,
+    publishedAt: (new Date()).toISOString(),
+    removed: false
+  }),
   preview: {
     select: {
       title: 'title',
