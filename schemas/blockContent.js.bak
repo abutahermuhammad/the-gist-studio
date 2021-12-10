@@ -70,7 +70,7 @@ export default {
         {
           // Editing this field will be hidden behind an "Edit"-button
           name: 'attribution',
-          type: 'text',
+          type: 'string',
           title: 'Attribution',
         }
       ]
